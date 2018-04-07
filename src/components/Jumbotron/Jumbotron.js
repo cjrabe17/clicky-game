@@ -1,5 +1,6 @@
 import React from "react";
 import "./Jumbotron.css";
+// import "./background.jpg";
 
 const Jumbotron = props => {
   return (
